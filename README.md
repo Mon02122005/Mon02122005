@@ -1,5 +1,5 @@
 # 💫 About Me:
-Saya adalah seorang mahasiswa yang sedang memulai perjalanan karier di bidang web development. Meskipun masih pemula, saya berkomitmen untuk terus belajar dan mengembangkan kemampuan teknis saya.”
+Saya adalah seorang mahasiswa yang sedang memulai perjalanan karier di bidang web development. Meskipun masih pemula, saya berkomitmen untuk terus belajar dan mengembangkan kemampuan teknis saya.
 
 
 ## 🌐 Socials:
